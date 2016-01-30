@@ -1,0 +1,10 @@
+Indicator name,Other name,Min,Max,Direction,Component,Sector,Component,Mode1,Mode 2,Sat_low,Sat_high,ID
+doing business,,0.01,0.99,0,Readiness,Economic,,,,0.01,0.99,ID_ECON_01
+political stability and non-violence,,-2.5,2.5,0,Readiness,Governance,,,,-2.5,2.5,ID_GOVE_01
+control of corruption,,-2.5,2.5,0,Readiness,Governance,,,,-2.5,2.5,ID_GOVE_02
+regulatory quality,,-2.5,2.5,0,Readiness,Governance,,,,-2.5,2.5,ID_GOVE_03
+rule of law,,-2.5,2.5,0,Readiness,Governance,,,,-2.5,2.5,ID_GOVE_04
+social inequality,,,,0,Readiness,Social,,,,,,ID_SOCI_01
+ict infrastructure,,,,0,Readiness,Social,,,,,,ID_SOCI_02
+education,,,70.17,0,Readiness,Social,,,,,70.17,ID_SOCI_03
+innovation,,,0.00023,0,Readiness,Social,,,,,0.00023,ID_SOCI_04

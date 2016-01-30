@@ -1,0 +1,45 @@
+projected change of cereal yields,,-0.388669,3.563,1,Vulnerability,Food,Exposure,,,-0.388669,3.563,ID_FOOD_01,0
+projected population change,,-0.202720,0.8355,0,Vulnerability,Food,Exposure,,,-0.202720,0.8355,ID_FOOD_02,1
+food import dependency,,0,1.037,0,Vulnerability,Food,Sensitivity,,,0,1.037,ID_FOOD_03,2
+rural population,,0.000000,92.789000,0,Vulnerability,Food,Sensitivity,,,0.000000,92.789000,ID_FOOD_04,3
+agriculture capacity,,0.000000,1.000000,0,Vulnerability,Food,Capacity,,,0.000000,1.000000,ID_FOOD_05,4
+child malnutrition,,0,15,0,Vulnerability,Food,Capacity,,,0,15,ID_FOOD_06,5
+projected change of annual runoff,,0.000000,1.000000,0,Vulnerability,Water,Exposure,,,0.000000,1.000000,ID_WATE_01,6
+projected change of annual groundwater recharge,,0.000000,1.000000,0,Vulnerability,Water,Exposure,,,0.000000,1.000000,ID_WATE_02,7
+fresh water withdrawal rate,,0,100,0,Vulnerability,Water,Sensitivity,,,0,100,ID_WATE_03,8
+water dependency ratio,,0,73.32,0,Vulnerability,Water,Sensitivity,,,0,73.32,ID_WATE_04,9
+dam capacity,,0,4932,1,Vulnerability,Water,Capacity,,,0,4932,ID_WATE_05,10
+access to reliable drinking water,,54.99,100,1,Vulnerability,Water,Capacity,,,54.99,100,ID_WATE_06,11
+projected change of deaths from climate change induced diseases,,1.025000,1.190000,0,Vulnerability,Health,Exposure,,,1.025000,1.190000,ID_HEAL_01,12
+projected change in vector-borne diseases,,-8.159104,64.859164,0,Vulnerability,Health,Exposure,,,-8.159104,64.859164,ID_HEAL_02,13
+dependency on external resource for health services,,0,29.42,0,Vulnerability,Health,Sensitivity,,,0,29.42,ID_HEAL_03,14
+slum population,,0.000000,97.000000,0,Vulnerability,Health,Sensitivity,,,0.000000,97.000000,ID_HEAL_04,15
+medical staff,,0,12.32,1,Vulnerability,Health,Capacity,,,0,12.32,ID_HEAL_05,16
+access to improved sanitation facilities,,19,99.5,1,Vulnerability,Health,Capacity,,,19,99.5,ID_HEAL_06,17
+projected change of biome distribution,,0.110000,0.960000,0,Vulnerability,Ecosystems,Exposure,,,0.110000,0.960000,ID_ECOS_01,18
+projected change of marine biodiversity,,0,0.88,0,Vulnerability,Ecosystems,Exposure,,,0,0.88,ID_ECOS_02,19
+natural capital dependency,,0,0.46,0,Vulnerability,Ecosystems,Sensitivity,,,0,0.46,ID_ECOS_03,20
+ecological footprint,,0.350000,4.84,1,Vulnerability,Ecosystems,Sensitivity,,,0.350000,4.84,ID_ECOS_04,21
+protected biome,,0.000000,100.000000,1,Vulnerability,Ecosystems,Capacity,,,0.000000,100.000000,ID_ECOS_05,22
+engagement in international environmental conventions,,0.000000,1.000000,1,Vulnerability,Ecosystems,Capacity,,,0.000000,1.000000,ID_ECOS_06,23
+projected change of warm periods,,29.992588,113.31,0,Vulnerability,Habitat,Exposure,,,29.992588,113.31,ID_HABI_01,24
+projected change of flood hazard,,-0.0395,0.161395,0,Vulnerability,Habitat,Exposure,,,-0.0395,0.161395,ID_HABI_02,25
+urban concentration,,0.005339,1.000000,0,Vulnerability,Habitat,Sensitivity,,,0.005339,1.000000,ID_HABI_03,26
+age dependency ratio,,0.28,0.533372,0,Vulnerability,Habitat,Sensitivity,,,0.28,0.533372,ID_HABI_04,27
+quality of trade and transport infrastructure,,1,5,1,Vulnerability,Habitat,Capacity,,,1,5,ID_HABI_05,28
+paved roads,,0.800000,100,1,Vulnerability,Habitat,Capacity,,,0.800000,100,ID_HABI_06,29
+projected change of hydropower generation capacity,,-1.819562,1.411,1,Vulnerability,Infrastructure,Exposure,,,-1.819562,1.411,ID_INFR_01,30
+projected change of sea level rise impacts,,0,0.113,0,Vulnerability,Infrastructure,Exposure,,,0,0.113,ID_INFR_02,31
+dependency on imported energy,,0,99.930000,0,Vulnerability,Infrastructure,Sensitivity,,,0,99.930000,ID_INFR_03,32
+population living under 5m above sea level,,0,24.11,0,Vulnerability,Infrastructure,Sensitivity,,,0,24.11,ID_INFR_04,33
+electricity access,,18.62,100,1,Vulnerability,Infrastructure,Capacity,,,18.62,100,ID_INFR_05,34
+disaster preparedness,,1.045455,4.684211,1,Vulnerability,Infrastructure,Capacity,,,1.045455,4.684211,ID_INFR_06,35
+doing business,,0.01,0.99,0,Readiness,Economic,,,,0.01,0.99,ID_ECON_01,36
+political stability and non-violence,,-2.5,2.5,0,Readiness,Governance,,,,-2.5,2.5,ID_GOVE_01,37
+control of corruption,,-2.5,2.5,0,Readiness,Governance,,,,-2.5,2.5,ID_GOVE_02,38
+regulatory quality,,-2.5,2.5,0,Readiness,Governance,,,,-2.5,2.5,ID_GOVE_03,39
+rule of law,,-2.5,2.5,0,Readiness,Governance,,,,-2.5,2.5,ID_GOVE_04,40
+social inequality,,0.000000,13.400000,0,Readiness,Social,,,,0.000000,13.400000,ID_SOCI_01,41
+ict infrastructure,,0.000000,0.893427,0,Readiness,Social,,,,0.000000,0.893427,ID_SOCI_02,42
+education,,0.209370,70.17,0,Readiness,Social,,,,0.209370,70.17,ID_SOCI_03,43
+innovation,,0.000000,0.00023,0,Readiness,Social,,,,0.000000,0.00023,ID_SOCI_04,44

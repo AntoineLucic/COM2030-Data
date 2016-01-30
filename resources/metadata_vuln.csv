@@ -1,0 +1,37 @@
+Indicator name,Other name,Min,Max,Direction,V or R,Sector,Component,Mode1,Mode 2,Min,Max,ID
+projected change of cereal yields,,,3.563,1,Vulnerability,Food,Exposure,,,,3.563,ID_FOOD_01
+projected population change,,,0.8355,0,Vulnerability,Food,Exposure,,,,0.8355,ID_FOOD_02
+food import dependency,,0,1.037,0,Vulnerability,Food,Sensitivity,,,0,1.037,ID_FOOD_03
+rural population,,,,0,Vulnerability,Food,Sensitivity,,,,,ID_FOOD_04
+agriculture capacity,,,,0,Vulnerability,Food,Capacity,,,,,ID_FOOD_05
+child malnutrition,,0,15,0,Vulnerability,Food,Capacity,,,0,15,ID_FOOD_06
+projected change of annual runoff,,,,0,Vulnerability,Water,Exposure,,,,,ID_WATE_01
+projected change of annual groundwater recharge,,,,0,Vulnerability,Water,Exposure,,,,,ID_WATE_02
+fresh water withdrawal rate,,0,100,0,Vulnerability,Water,Sensitivity,,,0,100,ID_WATE_03
+water dependency ratio,,0,73.32,0,Vulnerability,Water,Sensitivity,,,0,73.32,ID_WATE_04
+dam capacity,,0,4932,1,Vulnerability,Water,Capacity,,,0,4932,ID_WATE_05
+access to reliable drinking water,,54.99,100,1,Vulnerability,Water,Capacity,,,54.99,100,ID_WATE_06
+projected change of deaths from climate change induced diseases,,,,0,Vulnerability,Health,Exposure,,,,,ID_HEAL_01
+projected change in vector-borne diseases,,,,0,Vulnerability,Health,Exposure,,,,,ID_HEAL_02
+dependency on external resource for health services,,0,29.42,0,Vulnerability,Health,Sensitivity,,,0,29.42,ID_HEAL_03
+slum population,,,,0,Vulnerability,Health,Sensitivity,,,,,ID_HEAL_04
+medical staff,,0,12.32,1,Vulnerability,Health,Capacity,,,0,12.32,ID_HEAL_05
+access to improved sanitation facilities,,19,99.5,1,Vulnerability,Health,Capacity,,,19,99.5,ID_HEAL_06
+projected change of biome distribution,,,,0,Vulnerability,Ecosystems,Exposure,,,,,ID_ECOS_01
+projected change of marine biodiversity,,0,0.88,0,Vulnerability,Ecosystems,Exposure,,,0,0.88,ID_ECOS_02
+natural capital dependency,,0,0.46,0,Vulnerability,Ecosystems,Sensitivity,,,0,0.46,ID_ECOS_03
+ecological footprint,,,4.84,1,Vulnerability,Ecosystems,Sensitivity,,,,4.84,ID_ECOS_04
+protected biome,,,,1,Vulnerability,Ecosystems,Capacity,,,,,ID_ECOS_05
+engagement in international environmental conventions,,,,1,Vulnerability,Ecosystems,Capacity,,,,,ID_ECOS_06
+projected change of warm periods,,,113.31,0,Vulnerability,Habitat,Exposure,,,,113.31,ID_HABI_01
+projected change of flood hazard,,-0.0395,,0,Vulnerability,Habitat,Exposure,,,-0.0395,,ID_HABI_02
+urban concentration,,,,0,Vulnerability,Habitat,Sensitivity,,,,,ID_HABI_03
+age dependency ratio,,0.28,,0,Vulnerability,Habitat,Sensitivity,,,0.28,,ID_HABI_04
+quality of trade and transport infrastructure,,1,5,1,Vulnerability,Habitat,Capacity,,,1,5,ID_HABI_05
+paved roads,,,100,1,Vulnerability,Habitat,Capacity,,,,100,ID_HABI_06
+projected change of hydropower generation capacity,,,1.411,1,Vulnerability,Infrastructure,Exposure,,,,1.411,ID_INFR_01
+projected change of sea level rise impacts,,0,0.113,0,Vulnerability,Infrastructure,Exposure,,,0,0.113,ID_INFR_02
+dependency on imported energy,,0,,0,Vulnerability,Infrastructure,Sensitivity,,,0,,ID_INFR_03
+population living under 5m above sea level,,0,24.11,0,Vulnerability,Infrastructure,Sensitivity,,,0,24.11,ID_INFR_04
+electricity access,,18.62,100,1,Vulnerability,Infrastructure,Capacity,,,18.62,100,ID_INFR_05
+disaster preparedness,,,,1,Vulnerability,Infrastructure,Capacity,,,,,ID_INFR_06

@@ -1,0 +1,11 @@
+﻿* The "gain" folder
+The "gain.csv" file contains ND-GAIN scores for 192 nations over 18 years. The "gain_delta.csv" contains the GDP adjusted ND-GAIN scores.  Rows represent nations and columns represent years (standard ND-GAIN format). 
+
+* The "readiness" and "vulnerability" folders
+Contain the Readiness and Vulnerability scores as well as their components and sectors' scores. It also includes the "readiness_delta.csv" and "vulnerability_delta.csv" which are the GDP adjusted readiness and vulnerability scores. 
+
+* Individual indicator folder
+The "score.csv" file found in each indicator folder contains the indicator’s score for 192 nations over 18 years. The "raw.csv"  and "input.csv" files represent the raw and interpolated files respectively.
+
+* The "trends" folder
+This folder contains files that indicate the trends for ND-GAIN, Vulnerability and Readiness. These trends are computed using a linear fit over the last six years.
